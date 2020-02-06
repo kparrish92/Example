@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+# Example
+
+ituyrbdvgftrhb
+####
+
+*italics*
+
+hellos
+
+
+
+`r 2 + 2`
+
+```{r}
+plot(cars)
+
+```
